@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.webbreadboard</groupId>
+	<artifactId>webbreadboard</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<name>webbreadboard</name>
+	<packaging>war</packaging>
+
+	<scm>
+		<connection>scm:git:git://github.com/willCode4Beer/WebBreadboard.git</connection>
+		<developerConnection>scm:git:git@github.com:willCode4Beer/WebBreadboard.git</developerConnection>
+		<url>https://github.com/willCode4Beer/WebBreadboard</url>
+	</scm>
+
+	<developers>
+		<developer>
+			<id>willcode4beer</id>
+			<name>Paul Davis</name>
+			<url>http://willcode4beer.com</url>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+	</developers>
+</project>
